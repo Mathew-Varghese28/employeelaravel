@@ -76,7 +76,9 @@
                         <td><input type="text" class="form-control"></td>
                     </tr>
                     <tr>
-                        <center><button class="btn btn-danger">Submit</button></center>
+                    <td></td>
+                    <td><center><button class="btn btn-danger">Submit</button></center></td>
+                        
                     </tr>
                 </table>
             </div>
